@@ -1,0 +1,15 @@
+{
+  "keywords": [
+    "wireless earbuds"
+  ],
+  "maxResultsPerQuery": 20,
+  "countries": [
+    "US"
+  ],
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

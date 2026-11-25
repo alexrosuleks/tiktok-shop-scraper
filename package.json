@@ -1,0 +1,20 @@
+{
+  "name": "tiktok-shop-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TikTok Shop Scraper: Scrape TikTok Shop products: price, discount, sold count, rating, reviews, seller, variants, stock and shipping. No login needed. Export JSON, CSV or Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "tiktok"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
